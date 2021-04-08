@@ -1,3 +1,9 @@
 div{
   font-size:x-large;
 }
+
+.title{
+  font-weight: bold;
+  text-decoration-color: steelblue;
+  text-align: center;
+}
