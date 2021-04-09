@@ -13,6 +13,7 @@ a {
   text-decoration: underline;
   padding: 2px 1px 0;
   border-bottom: 1px ;
+  color: darkslategrey;
 }
 
 a:link {
