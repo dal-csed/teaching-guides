@@ -2,6 +2,45 @@ div{
   font-size:x-large;
 }
 
+h1{
+  font-size:160%;
+  font-family:verdana;
+  color:steelblue;
+}
+
+
+a {
+  text-decoration: underline;
+  padding: 2px 1px 0;
+  border-bottom: 1px ;
+}
+
+a:link {
+  color: black;
+  border-bottom: 1px ;
+}
+
+a:visited {
+  color: blue;
+  text-decoration: underline;
+  border-bottom: 1px ;
+
+
+}
+
+a:focus {
+  border-bottom: 1px ;
+}
+
+a:hover {
+  border-bottom: 1px ;
+  color:gray;
+}
+
+a:active {
+  color: steelblue;
+}
+
 .title{
   text-decoration-color: steelblue;
   text-align: center;
