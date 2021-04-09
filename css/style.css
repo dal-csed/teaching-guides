@@ -13,11 +13,10 @@ a {
   text-decoration: underline;
   padding: 2px 1px 0;
   border-bottom: 1px ;
-  color: darkslategrey;
 }
 
 a:link {
-  color: black;
+  color: darkslategrey;
   border-bottom: 1px ;
 }
 
