@@ -22,6 +22,10 @@ a:link {
 
 a:visited {
   color: blue;
+  text-decoration: underline;
+  border-bottom: 1px ;
+
+
 }
 
 a:focus {
