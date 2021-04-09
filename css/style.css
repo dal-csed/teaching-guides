@@ -3,7 +3,10 @@ div{
 }
 
 .title{
-  font-weight: bold;
   text-decoration-color: steelblue;
   text-align: center;
+}
+
+.bold{
+  font-weight: bold;
 }
