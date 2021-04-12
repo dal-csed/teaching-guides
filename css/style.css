@@ -53,3 +53,7 @@ a:active {
 .italic{
   font-style: italic;
 }
+
+footer{
+  font-size: small;
+}
