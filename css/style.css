@@ -54,6 +54,6 @@ a:active {
   font-style: italic;
 }
 
-.footer{
-  font-size: small;
+.footer > div{
+  font-size: medium !important;
 }
