@@ -57,3 +57,7 @@ a:active {
 .footer > div{
   font-size: medium !important;
 }
+
+.counter {
+  float: right;
+}
